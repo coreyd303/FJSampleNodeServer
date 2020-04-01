@@ -1,0 +1,16 @@
+{
+  "name": "fj_node",
+  "version": "1.0.0",
+  "description": "a server for fj sample app",
+  "main": "index.js",
+  "scripts": {
+    "test": "doit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "lorem-ipsum": "^2.0.3",
+    "uuid": "^7.0.2"
+  }
+}
