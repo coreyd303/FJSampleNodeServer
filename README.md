@@ -2,8 +2,7 @@
 
 This is a lightweight node service indended to provide sample API data to the FJSample project.
 
-1. Install node 12.16.1 LTS
-[12.16.1 LTS](https://nodejs.org/en/)
+1. Install node [12.16.1 LTS](https://nodejs.org/en/)
 
 2. Ensure your system is using the correct node
 ```
@@ -23,5 +22,4 @@ $ node app.js
 Running at http://127.0.0.1:3000/
 ```
 
-5. Run the FJSample app and profit!
-[FJSampleSampleApp](https://github.com/coreyd303/FlexJobsSampleApp)
+5. Run the [FJSampleSampleApp](https://github.com/coreyd303/FlexJobsSampleApp) app and profit!
